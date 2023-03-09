@@ -1,0 +1,24 @@
+{
+  "name": "projetapo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.0.2",
+    "@zerodevx/svelte-toast": "^0.8.2",
+    "svelte": "^3.55.1",
+    "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "marked": "^4.2.12",
+    "sanitize-html": "^2.10.0",
+    "svelte-spa-router": "^3.3.0",
+    "sweetalert2": "^11.7.3"
+  }
+}
